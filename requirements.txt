@@ -1,4 +1,4 @@
-pip intsall Flask
+pip install Flask
 pip install chatterbot
 pip install chatterbot corpus
 pip install -U pip setuptools wheel
